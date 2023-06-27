@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/36690237/103133294-f1ed0280-46ec-11eb-9b74-8f6b247482fb.gif)
+<!--![](https://user-images.githubusercontent.com/36690237/103133294-f1ed0280-46ec-11eb-9b74-8f6b247482fb.gif)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunhyeonKang)](https://github.com/anuraghazra/github-readme-stats)
 
