@@ -3,7 +3,7 @@
 I'm a Java Girl   
 In the Java world   
 Life in Java   
-It's fantastic   
+It's fantastic Ay, aya, ya
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunhyeonKang)](https://github.com/anuraghazra/github-readme-stats)
 
