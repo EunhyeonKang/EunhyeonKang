@@ -1,58 +1,46 @@
-<!--![](https://user-images.githubusercontent.com/36690237/103133294-f1ed0280-46ec-11eb-9b74-8f6b247482fb.gif)-->
 
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Rounded&text=Wellcome%20EH%20Github!&animation=fadeIn&height=250&fontColor=d6ace6&theme=radical)
+
+### 🛠️ Tech stack <br>
+<img src="https://img.shields.io/badge/Java-F78C40?style=flat-square&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<br>
+  
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/intellij-idea-FF0000?style=flat-square&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"> 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=lat-square&logo=Oracle&logoColor=white"> 
+<br><br>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunhyeonKang&layout=compact&theme=dracula)
+
+#
+
+### 👩‍💻 GitHub status <br>
+![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunhyeonKang&show_icons=true&theme=dracula)
+
+# 
+<div>
+  
+### 📩 Contact<br>
+<img src="https://img.shields.io/badge/keh0469@naver.com-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
+  
+<!--
 I'm a Java Girl   
 In the Java world   
 Life in Java   
-It's fantastic Ay, aya, ya
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunhyeonKang)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**EunhyeonKang/EunhyeonKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-<div>
-  <h3> Contact🌞 </h3>
-<img src="https://img.shields.io/badge/keh0469@naver.com-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
-
-<div>
-  <h3> 🔥Language🔥 </h3>
-<img src="https://img.shields.io/badge/Java-F78C40?style=plastic&logo=OpenJDK&logoColor=white">
-
-
-<div>
-  <h3> 🔥Web🔥 </h3>
-<img src="https://img.shields.io/badge/CSS3-F78C40?style=plastic&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-F78C40?style=plastic&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-F78C40?style=plastic&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-F78C40?style=plastic&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F78C40?style=plastic&logo=JavaScript&logoColor=white">
-
-<br>
-  <h3> 🌪Tool🌪 </h3>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/intellij-idea-FF0000?style=plastic&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"> 
-  <br>  
-
-  <h3> ⚡Platform⚡ </h3>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"> 
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">  
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunhyeonKang&show_icons=true&theme=radical)
+It's fantastic Ay, aya, ya -->
+  
 </div>
--->
+
