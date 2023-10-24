@@ -1,7 +1,7 @@
 
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Rounded&text=Wellcome%20EH%20Github!&animation=fadeIn&height=250&fontColor=d6ace6&theme=radical)
+
+![header](https://capsule-render.vercel.app/api?type=Rounded&text=EH%20Github!&animation=fadeIn&height=150&fontColor=d6ace6&theme=radical)
 
 ### 🛠️ Tech stack <br>
 <img src="https://img.shields.io/badge/Java-F78C40?style=flat-square&logo=OpenJDK&logoColor=white">
@@ -25,6 +25,10 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunhyeonKang&layout=compact&theme=dracula)
 
+I'm a Java Girl   
+In the Java world   
+Life in Java   
+It's fantastic Ay, aya, ya 
 #
 
 ### 👩‍💻 GitHub status <br>
@@ -35,12 +39,7 @@
   
 ### 📩 Contact<br>
 <img src="https://img.shields.io/badge/keh0469@naver.com-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
-  
-<!--
-I'm a Java Girl   
-In the Java world   
-Life in Java   
-It's fantastic Ay, aya, ya -->
+
   
 </div>
 
