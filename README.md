@@ -1,8 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&text=EH%20Github!&animation=fadeIn&height=150&fontColor=d6ace6&theme=radical)
-
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunhyeon's%20GitHub&fontSize=70&animation=scaleIn)
 ### 🛠️ Tech stack <br>
 <img src="https://img.shields.io/badge/Java-F78C40?style=flat-square&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
