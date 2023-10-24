@@ -31,10 +31,6 @@ Life in Java
 It's fantastic Ay, aya, ya 
 #
 
-### 👩‍💻 GitHub status <br>
-![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunhyeonKang&show_icons=true&theme=dracula)
-
-# 
 <div>
   
 ### 📩 Contact<br>
